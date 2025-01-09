@@ -1,0 +1,127 @@
+
+*{
+margin: 0px;
+padding: 0px;
+}
+/* first-banner-section Start */
+.banner-section{
+border-radius: 16px;
+height: 600px;
+width: 1320px;
+margin: 0 auto;
+margin-top: 50px;
+background: linear-gradient(
+    180deg,
+    rgba(7, 2, 17, 0) 0%,
+    rgba(7, 2, 17, 1) 100%
+), url(images/Banner\ Image.png);
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.banner-content{
+color: white;
+}
+.banner-subtitle{
+font-size: 40px;
+font: bold;
+}
+/* first banner section End */
+
+/* second banner content style */
+.second-banner-content{
+height: 806px;
+width: 802px;
+margin: 120px auto;
+}
+.second-content{
+text-align: center;
+}
+.second-content img{
+margin-top: 50px;
+}
+.title-1{
+color: #FF0000;
+padding: 15px;
+font-size: 60px;
+font: bold;
+}
+.paragraph-1{
+color: #FF0000;
+font: bold;
+padding: 15px;
+}
+/* seoncond banner section End */
+
+/* Third banner section Start */
+.third-banner-section{
+height: 600px;
+width: 1320px;
+border-radius: 16px;
+margin: 0 auto;
+display: flex;
+justify-content: center;
+align-items: center;
+background: linear-gradient(
+    180deg,
+    rgba(7, 2, 17, 0) 0%,
+    rgba(7, 2, 17, 1) 100%
+), url(images/Vectorrr.png);
+}
+.third-title{
+font-size: 50px;
+color:white ;
+padding: 15px;
+}
+.third-paragraph{
+padding: 15px;
+font: bold;
+font-size: 20px;
+color: white;
+}
+.third-button{
+font-size: 30px;
+margin-left: 20px;
+padding: 20px;
+border-radius: 10px;
+transition: 0.5s;
+}
+.third-button:hover{
+background-color: aquamarine;
+color: black;
+}
+/* Third-banner-section-End */
+
+/* 4rth-banner-section-start */
+.fourth-banner-section{
+width: 1320px;
+height: 482px;
+border: 1px solid green;
+margin: 120px auto;
+border-radius: 10px;
+display: flex;
+justify-content: center;
+align-items: center;
+background: linear-gradient(
+    50deg,
+    rgba(255, 0, 0, 0) 0%,
+    rgba(255, 0, 0, 1) 100%
+   
+);
+}
+.color{
+ color: #FF0000 ;
+}
+.fourth-button{
+    font-size: 30px;
+    margin-left: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    transition: 0.5s;
+    margin-top: 15px;
+}
+.fourth-button:hover{
+    background-color: aquamarine;
+    color: black;
+}
+/* Fourth-banner-section-End */
