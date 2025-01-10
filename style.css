@@ -125,3 +125,76 @@ background: linear-gradient(
     color: black;
 }
 /* Fourth-banner-section-End */
+
+/* fifth-banner-section-start */
+.fifth-banner-section{
+display: flex;
+width: 1320px;
+height: 432;
+margin: 130px auto;
+border-radius: 10px;
+align-items: center;
+}
+.content-2 img{
+margin: 80px;
+height: 364px;
+width: 364px;
+}
+.content-2{
+display: flex;
+height: 463px;
+width: 463px;
+border-radius: 50%;
+border: 15px solid red;
+align-items: center;
+justify-content: center;
+}
+.content-3{
+margin-left: 136px;
+}
+.content-3-title{
+color: #FF0000;
+font: bold;
+font-size: 48px;
+margin-bottom: 10px;
+}
+.content-3-paragraph{
+margin-bottom: 10px;
+font: bold;
+}
+.content-1{
+margin-right: 136px;
+}
+.content-1-title{
+color: #FF0000;
+}
+.content-1-sub-title{
+font: 900;
+}
+.content-1-paragraph{
+margin-top: 10px;
+font: 400;
+}
+/* fifth-banner-section End */
+
+/* six-banner-section-Start */
+.six-banner-section{
+height: 998px;
+width: 1320px;
+border: 2px solid green;
+border-radius: 10px;
+margin: 111px auto;
+}
+.six-content{
+text-align: center;
+}
+.six-title{
+font-size: 72px;
+padding: 10px;
+}
+.rat{
+color: #FF0000;
+}
+.six-paragraph{
+font: bold;
+}
