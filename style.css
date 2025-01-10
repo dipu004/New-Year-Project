@@ -198,3 +198,72 @@ color: #FF0000;
 .six-paragraph{
 font: bold;
 }
+
+
+
+
+/* seven-banner-section-start */
+.seven-banner-section{
+height: 1163px;
+width: 1320px;
+margin: 119px auto;
+text-align: center;
+}
+.six-paragraph{
+margin-bottom: 48px;
+margin-top: 22px;
+font: bold;
+}
+.seven-title{
+font-size: 40px;
+}
+/* seven-banner-section-End *
+
+/* Eight-banner-section-start*/
+.Eight-banner-section{
+height: 616px;
+width: 1320px;
+border-radius: 10px;
+margin: 120px auto;
+display: flex;
+align-items: center;
+justify-content: center;
+text-align: center;
+}
+.Eight-title{
+font-size: 50px;
+margin: 20px;
+}
+.Eight-paragraph{
+margin: 20px;
+font: bold;
+color: #070211;
+}
+.Eight-banner-section{
+background-color: rgba(255, 0, 0, 0.05);
+}
+input[type="text"]{
+border-radius: 20px 0 0 20px;
+padding: 20px 80px  20px 80px;
+font-size: 18px;
+border: none;
+}
+.Eight-button{
+padding: 21px;
+border-radius: 0 20px 20px 0;
+font-size: 15px;
+background-color: #FF0000;
+font: bold;
+color: #FFFFFF;
+border: none;
+}
+
+
+
+
+
+
+
+
+
+
